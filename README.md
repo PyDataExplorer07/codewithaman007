@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @codewithaman007(Aman Ukey)
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data analysis projects, open-source Python tools, and anything related to transforming data into insights.
 - 📫 How to reach me - officialaman4503@gmail.com
-- 😄 Pronouns: “Hello, my name is Aman and I'm friendly and calm person.”
+- 😄 Pronouns: He/his.
 - ⚡ Fun fact: “I do not fear computers. I fear lack of them.”— Isaac Asimov  
 
 <!---
